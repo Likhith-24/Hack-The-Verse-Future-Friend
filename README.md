@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.bing.com/images/create/ai-chatbot-predicting-future-career-path2c-skills2c-/1-661f94fb65c247ff8b078e437129671b?id=%2bcwFVOiNcVQ9YZPAslp4CQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.Z.kkd47T8miWh9J6tTaa&frame=sydedg&FORM=SYDBIC" alt="Project Image" width="800" height="300">
+</p>
+
 # Future Friend: 🔮
 
 ## Project Overview
@@ -42,6 +46,12 @@ pip install keras
 ---
 
 Unlock the doors to your future with Future Friend, the AI chatbot redefining career guidance. Let's embark on this transformative journey together! 🌟✨🚀
+
+---
+
+<p align="center">
+  <img src="https://www.bing.com/images/create/futuristic-and-tech-savvy-ai-chatbot-predicting-fu/1-661f951857f9405998aff476dac6a630?id=OfjLmNyPEnX9d4UaMhR1yQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.Yp6KNod.3YkQ5mUopKBY&frame=sydedg&FORM=SYDBIC" alt="Project Image" width="800" height="300">
+</p>
 
 ---
 
