@@ -46,7 +46,21 @@ Unlock the doors to your future with Future Friend, the AI chatbot redefining ca
 ---
 
 # 💫 About Me:
-🔭 I’m working as a Student<br>📚 I'm currently learning Data Science, Machine Learning, AI, and much more!<br>⚡ In my free time I read about tech-stuff and self-improve
+- 🔭 I’m currently working on [VedaGPT](https://github.com/Likhith-24/VedaGPT)
+
+- 🌱 I’m currently learning **HuggingFace, LLMs, AI, DS, ML, NLP, and much more**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Likhith-24/](https://github.com/Likhith-24/)
+
+- 💬 Ask me about **AI, LLMs, HuggingFace, DS, ML, NLP, Deep Learning**
+
+- 📫 How to reach me **v.likhith.01@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DiQ2ocpqxEab2rEXiaODP2Osyjn5dp0V/view?usp=sharing)
+
+- ⚡ Fun fact **I may have some sense of humour. I will have more convos if you start about Marvel, DC, Tech-Stuff**
+
+- ⚡ In my free time I read about tech-stuff and self-improve
 
 
 ## 🌐 Socials:
