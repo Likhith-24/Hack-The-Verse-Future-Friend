@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/570b5b5d-626f-4fb7-8979-dcada3491770" alt="Project Image" width="400" height="400">
+</p>
 
 # Future Friend: 🔮
 
@@ -43,6 +46,12 @@ pip install keras
 ---
 
 Unlock the doors to your future with Future Friend, the AI chatbot redefining career guidance. Let's embark on this transformative journey together! 🌟✨🚀
+
+---
+
+<p align="center">
+  <img src="https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/89453409-d280-4ee4-af97-1ddffeb0bd81" alt="Project Image" width="400" height="400">
+</p>
 
 ---
 
