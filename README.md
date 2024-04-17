@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://www.bing.com/images/create/ai-chatbot-predicting-future-career-path2c-skills2c-/1-661f94fb65c247ff8b078e437129671b?id=%2bcwFVOiNcVQ9YZPAslp4CQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.Z.kkd47T8miWh9J6tTaa&frame=sydedg&FORM=SYDBIC" alt="Project Image" width="800" height="300">
+  <img src="![_1c28ad5a-b26f-4ada-b654-2395fdb8a6cc](https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/f423bb6e-6022-4b45-ba3b-d2e8c3963598)
+" alt="Project Image" width="800" height="300">
 </p>
 
 # Future Friend: 🔮
@@ -50,7 +51,8 @@ Unlock the doors to your future with Future Friend, the AI chatbot redefining ca
 ---
 
 <p align="center">
-  <img src="https://www.bing.com/images/create/futuristic-and-tech-savvy-ai-chatbot-predicting-fu/1-661f951857f9405998aff476dac6a630?id=OfjLmNyPEnX9d4UaMhR1yQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.Yp6KNod.3YkQ5mUopKBY&frame=sydedg&FORM=SYDBIC" alt="Project Image" width="800" height="300">
+  <img src="![Uploading _fa3cf8a8-cfc6-445c-9349-7b95334f3ca6.jpeg…]()
+" alt="Project Image" width="800" height="300">
 </p>
 
 ---
