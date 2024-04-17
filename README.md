@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" ![image](https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/76065cda-1fb0-4903-9730-a992a33ede32) " alt="Project Image" width="800" height="300">
+  <img src=" ![image](https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/76065cda-1fb0-4903-9730-a992a33ede32) " alt="Project Image" width="1200" height="600">
 </p>
 
 # Future Friend: 🔮
