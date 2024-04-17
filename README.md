@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=" ![_fa3cf8a8-cfc6-445c-9349-7b95334f3ca6](https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/7f12c08b-4312-4cad-8dd7-fadcd107f105)
-" alt="Project Image" width="800" height="300">
+  <img src=" ![image](https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/76065cda-1fb0-4903-9730-a992a33ede32) " alt="Project Image" width="800" height="300">
 </p>
 
 # Future Friend: 🔮
@@ -51,7 +50,7 @@ Unlock the doors to your future with Future Friend, the AI chatbot redefining ca
 ---
 
 <p align="center">
-  <img src="![_1c28ad5a-b26f-4ada-b654-2395fdb8a6cc](https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/7b376a95-c52a-4ca4-ba5d-a2d5caf00664)
+  <img src="![image](https://github.com/Likhith-24/Hack-The-Verse-Future-Friend/assets/132389441/1181abc3-ede5-4ba2-97ba-02e2eff04670)
 " alt="Project Image" width="800" height="300">
 </p>
 
